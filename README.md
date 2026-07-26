@@ -1,11 +1,13 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Full-Stack & Security Engineer Header" />
+  <img src="assets/header.svg" width="100%" alt="Ashkan Gholizadeh Header" />
 </div>
 
+<h1 align="center">Ashkan Gholizadeh</h1>
+
 <p align="center">
-  Backend Developer&nbsp; ·&nbsp; Security Specialist&nbsp; ·&nbsp; Frontend Capable&nbsp; ·&nbsp; <a href="https://hiprax.com">Hiprax</a> Team
+  Full Stack&nbsp; ·&nbsp; Security Specialist&nbsp; ·&nbsp; <a href="https://hiprax.com">Hiprax</a> Team
 </p>
 
 <p align="center">
@@ -16,26 +18,41 @@
 
 <br />
 
-## ~/about
+## 👨‍💻 About Me
 
-I am a full-stack engineer with a heavy specialization in backend architecture and application security. While I can comfortably spin up and style modern frontend interfaces, my primary focus is building the airtight logic and secure databases that power them.
+I'm a full-stack developer focused on backend systems and application security. I spend my time designing database schemas, writing core business logic, and hardening APIs against real-world vulnerabilities.. My priority is keeping systems fast, scalable, and secure against real-world threats. Currently building web applications and secure platforms at **[Hiprax](https://hiprax.com)**.
 
-Shipping a pretty UI is easy. Surviving real traffic and securing data against active vulnerabilities is a different job entirely. I am currently part of the core team at **[Hiprax](https://hiprax.com)**, where we architect high-performance web applications and zero-knowledge security systems. 
+## 🛠️ Tech Stack
 
-## ~/stack
-
-*   **Backend:** Node.js, Express, Python
-*   **Security:** Zero-Knowledge architectures, API hardening, JWT/OAuth, Penetration mitigation, AES-GCM encryption
+*   **Backend:** Node.js, Express, Nest
+*   **Security:** OWASP , API hardening, JWT/OAuth, pentesting, AES-GCM encryption
 *   **Databases:** MongoDB, PostgreSQL, Redis
 *   **Frontend:** React, JavaScript/TypeScript, Next.js, Tailwind
 
-## ~/work
+## 🚀 Projects & Work
 
-Most of my daily engineering work involves proprietary backend logic and security auditing for clients, which lives securely in private repositories under NDA. 
+My day-to-day work covers three main areas:
 
-You can view the public-facing results of my logic, as well as the open-source security packages I maintain with my team, directly on our agency portfolio.
+    Building proprietary backend logic and database architecture
+
+    Maintaining, updating, and securing existing websites and services
+
+    Auditing client applications for vulnerabilities
+
+Most client repositories are private under NDA, but you can explore our public projects and open-source security tools directly on our agency portfolio.
 
 **[Explore our work at Hiprax →](https://hiprax.com/#projects)**
+
+<br />
+
+## ✉️ Contact Me
+
+If you have an interesting project or collaboration in the realm of complex backend systems or specialized security auditing—I’d love to hear from you. The fastest way to contact me is email.
+
+<p align="center">
+  <a href="mailto:info@hiprax.com"><img alt="Email" height="35" src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hiprax.com"><img alt="Website" height="35" src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 <br />
 
